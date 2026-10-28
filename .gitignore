@@ -1,0 +1,13 @@
+# Credentials and machine-specific state
+/.jira/
+/gh/hosts.yml
+/github-copilot/
+/cagent/.cagent_first_run
+/cagent/user-uuid
+
+# Generated or personal application data
+/cmus/
+/mc/ini
+/iterm2/AppSupport
+/supacode/repos.json
+/kitty/*.bak
